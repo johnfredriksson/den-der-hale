@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/den-der-hale/static/css/main.b81833a3.css",
-    "main.js": "/den-der-hale/static/js/main.f36fa284.js",
+    "main.css": "/den-der-hale/static/css/main.e72ce9df.css",
+    "main.js": "/den-der-hale/static/js/main.ef9c71ec.js",
     "static/js/787.020ca913.chunk.js": "/den-der-hale/static/js/787.020ca913.chunk.js",
     "static/media/ant.svg": "/den-der-hale/static/media/ant.6bbce84bf0f3f833345c.svg",
     "index.html": "/den-der-hale/index.html",
-    "main.b81833a3.css.map": "/den-der-hale/static/css/main.b81833a3.css.map",
-    "main.f36fa284.js.map": "/den-der-hale/static/js/main.f36fa284.js.map",
+    "main.e72ce9df.css.map": "/den-der-hale/static/css/main.e72ce9df.css.map",
+    "main.ef9c71ec.js.map": "/den-der-hale/static/js/main.ef9c71ec.js.map",
     "787.020ca913.chunk.js.map": "/den-der-hale/static/js/787.020ca913.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b81833a3.css",
-    "static/js/main.f36fa284.js"
+    "static/css/main.e72ce9df.css",
+    "static/js/main.ef9c71ec.js"
   ]
 }
